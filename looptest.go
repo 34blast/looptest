@@ -32,8 +32,8 @@ func main() {
 	for country, capital := range countryCapitalMap {
 		fmt.Println("Capital of", country, "is", capital)
 	}
+
 	fmt.Println()
-	
 	fmt.Println("looptest.main() : exectuion completed")
 
 }
